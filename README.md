@@ -15,6 +15,10 @@ pinterest account generator, web request based, solves recaptcha with capsolver 
 
 
 
+https://github.com/emrovsky/pinterest-account-generator/assets/85563550/d243dbf7-8445-4615-8375-a4aaa7a55555
+
+
+
 
 
 
